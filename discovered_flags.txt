@@ -1,0 +1,9 @@
+{FLAG_INTWEBSI_SQLI_306481} -- login.php and internal
+{FLAG_PSEUTERM_COIN_256579} -- switch.py pseudoterminal baner
+{FLAG_PUBWEBSI_BACK_892356} -- contact.php
+{FLAG_SHARKNET_SNIF_759871} -- dump cap
+{FLAG_MAINHOST_RUBD_507598} -- eliseo keys
+{FLAG_PSEUTERM_MISC_359867} -- vese-project-dockers/pseudo-terminal
+{FLAG_INTWEBSI_IHAL_421571} -- hashed decryptme mysql- users table
+{FLAG_MAINHOST_FASU_172836} -- johnsysadmin - bashrc 
+{FLAG_MAINHOST_RANS_982080} -- disk_utils
